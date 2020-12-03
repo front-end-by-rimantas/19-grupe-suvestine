@@ -1,0 +1,13 @@
+div {
+    display: block;
+    background-color: red;
+    height: 250px;
+    padding: 55px;
+}
+
+p {
+    height: 150px;
+    font-size: medium;
+    color: #566656  
+    
+}
